@@ -1,0 +1,58 @@
+/* border */
+#a{
+    background-color: aqua;
+    border:solid;
+    border-color: aqua;
+    border-width: 10px;
+    border-radius: 10px;
+}
+#s{
+    background-color: burlywood;
+    border:dotted;
+    border-radius: 10px;
+    border-color: black;
+     border-width: 10px;
+    }
+#d{
+    background-color: chartreuse;
+    border-top:10px;
+    border-color: aquamarine;
+}
+#f{
+    background-color: yellow;
+    border-bottom-left-radius: 10px;
+    border-color: blueviolet;
+}
+/* /padding */
+.g{
+    background-color: antiquewhite;
+    border:solid;
+    border-width:5px;
+    border-radius:2px;
+    padding:50px;
+}
+/* margin */
+.h{
+    background-color: bisque;
+    border: solid;
+    border-radius: 5px;
+    border-width: 10px;
+    margin: 50px;
+}
+/*univesal margin*/
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#m{
+    background-color: beige;
+    border: solid;
+    border-color:blue;
+}
+#n{
+    background-color: brown;
+    border: solid;
+    border-radius: 15px;
+    border-color: black;
+    border-width: 10px;
+}
